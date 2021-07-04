@@ -1,0 +1,50 @@
+body {
+    background-color: #DFDBDB;
+}
+
+#main {
+    margin-top: 40px;
+}
+
+img:hover {
+    background-color: #b8b4b4;
+}
+
+.container {
+    height: auto;
+}
+
+#loginbtn {
+    margin-top: 70px;
+    margin-left: 200px;
+}
+
+.text {
+    text-align: center;
+    font-size: 30px;
+    margin-top: 40px;
+    font-weight: bold;
+}
+
+.imgT {
+    width: 140px;
+    float: left;
+}
+
+.imgD {
+    width: 190px;
+    height: 250x;
+    /* float: left; */
+}
+
+.Textp {
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    margin-right: 40px;
+    color: red;
+}
+
+#loginbtn:hover {
+    background-color: black;
+}
